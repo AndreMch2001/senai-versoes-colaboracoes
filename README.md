@@ -2,4 +2,4 @@
 
 Descrição qualquer
 
-lembrei do momando: git satuts
+lembrei do momando: git satuts.
